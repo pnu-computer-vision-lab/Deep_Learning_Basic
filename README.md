@@ -1,6 +1,7 @@
 # Simple PyTorch Baseline for Training
 
 * __Branch holds each own implementation__
+    - [x] Jihun
 
 ## TODO
 ### utils
