@@ -1,6 +1,8 @@
 import torch
 from torch.utils.tensorboard import SummaryWriter
 
+# Mainly utilize the tensorboard on the VS Code terminal
+# View on local-host website
 
 def get_logger(name: str, **kwargs):
     if name == "tensorboard":
@@ -12,4 +14,3 @@ def get_logger(name: str, **kwargs):
 
 if __name__ == "__main__":
     pass
-
