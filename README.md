@@ -1,6 +1,6 @@
 # Simple PyTorch Baseline for Training
 
-## Branch holds each own implementation
+* Branch holds each own implementation
 
 ## TODO
 ### utils
