@@ -1,5 +1,7 @@
 # Simple PyTorch Baseline for Training
 
+## Branch holds each own implementation
+
 ## TODO
 ### utils
 - [ ] F1
@@ -41,5 +43,3 @@ pip install -r requirements.txt
 5. make own your transformer 
 6. fill trainer setup
 7. fill the train, _valid function
-
-
