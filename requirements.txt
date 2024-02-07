@@ -1,0 +1,7 @@
+timm
+albumentations
+torchinfo
+matplotlib
+ipykernel
+tqdm
+tensorboard
