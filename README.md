@@ -2,6 +2,8 @@
 
 * __Branch holds each own implementation__
     - [x] Jihun
+    - [x] Bigyeol
+    - [ ] Bohyeon
 
 ## TODO
 ### utils
